@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="src/images/dgx-spark-banner.png" alt="NVIDIA DGX Spark"/>
-</p>
-
 # DGX Spark Playbooks
 
 Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with Blackwell architecture.
